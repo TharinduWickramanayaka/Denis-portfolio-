@@ -27,7 +27,10 @@ Welcome to my personal portfolio! This site demonstrates my work in web developm
 
 ## Installation
 Clone the repository to your local machine using the following command:
-'''web
+Demo-Website
+```bash
  (https://tharinduwickramanayaka.github.io/Denis-portfolio-/)
+```
+Clone
 ```bash
 [git clone https://github.com/TharinduWickramanayaka/Denis-portfolio-.git]
