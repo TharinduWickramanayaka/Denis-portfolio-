@@ -7,9 +7,6 @@ This is the portfolio website of Denis, showcasing skills, projects, and experie
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 Welcome to my personal portfolio! This site demonstrates my work in web development, including responsive design, UI/UX principles, and front-end development using modern web technologies.
