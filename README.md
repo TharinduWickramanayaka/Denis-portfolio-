@@ -24,12 +24,11 @@ Welcome to my personal portfolio! This site demonstrates my work in web developm
 - **Responsive Design**: The site is fully responsive and works well on all devices (desktop, tablet, mobile).
 - **Interactive Sections**: Features like project sliders, image galleries, and contact forms.
 - **Navigation Menu**: Simple and easy-to-use navigation with smooth scrolling to different sections.
+##Demo-Website
+(https://tharinduwickramanayaka.github.io/Denis-portfolio-/)
 
 ## Installation
 Clone the repository to your local machine using the following command:
-Demo-Website
-(https://tharinduwickramanayaka.github.io/Denis-portfolio-/)
-
 ```bash
 [git clone https://github.com/TharinduWickramanayaka/Denis-portfolio-.git]
 ```
